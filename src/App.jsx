@@ -1,4 +1,4 @@
-import NavBar from "./Components/navbar";
+import NavBar from "./Components/NavBar";
 import Hero from "./Components/Hero"
 import ProductViewer from "./Components/ProductViewer";
 import Showcase from "./Components/Showcase";
